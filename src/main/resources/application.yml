@@ -4,4 +4,4 @@ spring:
       host: localhost
       database: employeedb
 server:
-  port: 8081
+  port: 8080
